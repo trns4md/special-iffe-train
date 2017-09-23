@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}
+
+#output div {
+    border: 1px solid red;
+    margin-bottom: 1rem;
+    width: 100px;
+}
+
+.fancy-box1 {
+    background-color: antiquewhite;
+}
+
+.fancy-box2 {
+    background-color: blueviolet;
+}
